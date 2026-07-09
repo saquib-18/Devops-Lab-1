@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //this is a comment//
 float basic;
 printf("Enter the basic salary: ");
 scanf("%.2f",basic);
